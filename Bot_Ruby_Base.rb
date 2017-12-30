@@ -1,10 +1,10 @@
 #!/usr/bin/env ruby
-require 'telegram/bot'
+require "telegram/bot"
 
 puts "Bot Avviato!"
 
 ## CONFIGURATION START ##
-token = ''
+token = ""
 ## CONFIGURATION END ##
 
 
