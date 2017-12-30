@@ -1,4 +1,7 @@
-# Telegram-Bot-Ruby@Goderesky << Telegram
+# Telegram-Bot-Ruby
+
+
+@Goderesky << Telegram
 
 ###INSTALL FIRST###
 
